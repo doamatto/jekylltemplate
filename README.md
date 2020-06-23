@@ -1,2 +1,2 @@
 # jekylltemplate
-A Powerful Jekyll Theme Template
+This is a simple, yet powerful Jekyll template that comes feature packed. It's derived from [Nano](https://github.com/doamatto/nano) and I use it for setting up new themes and sites as it makes things WAY easier.
